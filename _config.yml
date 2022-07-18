@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Dzianis Starasotnikau
-title: 
+#title: 
 email: destarvision@gmail.com
 # email_title: Email (Email title override)
-phone: 01786566221
+phone: 01786566221 
 # phone_title: Phone (Phone title override)
-#website:
+webseite: 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -51,7 +51,7 @@ xing_username: Dzianis_Starasotnikau
 #About Section
 about_title: About
 about_profile_image: images/profile.jpg
-about_content: Herzlich wilkomen zu meinem Online-Lebenslauf. Ich heiße Dzianis und ich lerne Programmierung. Seit Januar 2022 mache ich  eine Umschulung zum <mark>Fachinformatiker für Anwendungsentwicklung</mark> bei <i>DIDACT München</i>.Außerdem lerne ich noch abends <i>Computer Sience</i> und <i>Programmierung mit <mark>Python</mark></i> bei der <i>REDI Scool München</i> .<br/>Zurzeit bin ich auf der Suche nach eine Praktikumsstelle für das Pflichtpraktikum, das zu meiner Umschulung gehört und ab Dezember 2022 bis Juni 2023 stattfindet. Beim Praktikum würde ich mich freuen, in einem Team an interessanten Aufgaben zu arbeiten.<br/>Ich komme aus <mark>Belarus</mark> und wohne seit 2019 in Deutschland.<br/>Ich spreche sehr gut <mark>Deutsch</mark>, meine Muttersprache ist <mark>Russisch</mark>, und ich lese und schreibe auf <mark>Englisch</mark>.
+about_content: Herzlich wilkomen zu meinem Online-Lebenslauf. Ich heiße Dzianis, wohne in München und lerne Programmierung. Seit Januar 2022 mache ich  eine Umschulung zum <mark>Fachinformatiker für Anwendungsentwicklung</mark> bei <i>DIDACT München</i>.Außerdem lerne ich noch abends <i>Computer Sience</i> und <i>Programmierung mit <mark>Python</mark></i> bei der <i>REDI Scool München</i> .<br/>Zurzeit bin ich auf der Suche nach eine Praktikumsstelle für das Pflichtpraktikum, das zu meiner Umschulung gehört und ab Dezember 2022 bis Juni 2023 stattfindet. Beim Praktikum würde ich mich freuen, in einem Team an interessanten Aufgaben zu arbeiten.<br/>Ich komme aus <mark>Belarus</mark> und wohne seit 2019 in Deutschland.<br/>Ich spreche sehr gut <mark>Deutsch</mark>, meine Muttersprache ist <mark>Russisch</mark>, und ich lese und schreibe auf <mark>Englisch</mark>.
 
 content:
   - title: Projects # Title for the section

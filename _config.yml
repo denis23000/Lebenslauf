@@ -117,7 +117,7 @@ content:
             url: https://github.com/denis23000/ATM_REDI_ICS
         quote:   
         description: | # this will include new lines to allow paragraphs
-          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für den Abschlussprojekt habe ich ein Geldautomat programmiert (Python)
+          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für das Abschlussprojekt habe ich ein Geldautomat programmiert (Python)
   #- title: Experience
     #layout: list
     #content:

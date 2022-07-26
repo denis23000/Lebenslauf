@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dzianis Starasotnikau
-title: 
+title: Lebenslauf
 email: destarvision@gmail.com
 # email_title: Email (Email title override)
 phone: 01786566221
@@ -91,25 +91,25 @@ content:
         additional_links:
           - title:  Link to project
             icon: fab fa-github
-            url: 
+            url: https://github.com/denis23000/musicbydenis 
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          Eine einfache Internetseite, die ich mittels HTML entwickelt und veröffentlicht.
+          Eine einfache Internetseite, die ich entwickelt und bereitgestellt habe (HTML, checkdomain, IONOS)
       - layout: left
         title: Online Lebenslauf
-        link: Link
+        link: https://denis23000.github.io/Lebenslauf/
         link_text: Link to Projekt
         additional_links:
-          - title:  Link to project
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/denis23000/ATM_REDI_ICS
+            url: https://github.com/denis23000/Lebenslauf
         quote: 
         description: | # this will include new lines to allow paragraphs
-          Erstellung vom Online-Lebenslauf mittels Muster von James Grant. 
+          Erstellung vom Online-Lebenslauf mittels Muster von James Grant (HTML, CSS, Ruby, Bundle, jekyll)
       - layout: left
         title: ATM_REDI_ICS
-        link: Link
+        link: https://github.com/denis23000/ATM_REDI_ICS
         link_text: Link to Projekt
         additional_links:    
           - title: Github page for project (eg. sproogen/modern-resume-theme)
@@ -117,7 +117,7 @@ content:
             url: https://github.com/denis23000/ATM_REDI_ICS
         quote:   
         description: | # this will include new lines to allow paragraphs
-          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für den Abschlussprojekt habe ich ein Geldautomat programmiert. Programmiersprache: Python. 
+          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für den Abschlussprojekt habe ich ein Geldautomat programmiert (Python)
   #- title: Experience
     #layout: list
     #content:

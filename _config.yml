@@ -118,6 +118,17 @@ content:
         quote:   
         description: | # this will include new lines to allow paragraphs
           Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für das Abschlussprojekt habe ich ein Geldautomat programmiert (Python)
+      - layout: left
+        title: Earth HTML
+        link: https://github.com/denis23000/earth.html
+        link_text: Link to Projekt
+        additional_links:    
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/denis23000/earth.html
+        quote:   
+        description: | # this will include new lines to allow paragraphs
+          Eine HTML Seite, die ich im Laufe des Kurses "Der komplette Webentwickler" bei www.udemy.com entwickelt habe.
   #- title: Experience
     #layout: list
     #content:

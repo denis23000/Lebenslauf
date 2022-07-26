@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Dzianis Starasotnikau
-#title: 
+title: 
 email: destarvision@gmail.com
 # email_title: Email (Email title override)
-phone: 01786566221 
+phone: 01786566221
 # phone_title: Phone (Phone title override)
-webseite: 
+#website:
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -51,12 +51,51 @@ xing_username: Dzianis_Starasotnikau
 #About Section
 about_title: About
 about_profile_image: images/profile.jpg
-about_content: Herzlich wilkomen zu meinem Online-Lebenslauf. Ich heiße Dzianis, wohne in München und lerne Programmierung. Seit Januar 2022 mache ich  eine Umschulung zum <mark>Fachinformatiker für Anwendungsentwicklung</mark> bei <i>DIDACT München</i>.Außerdem lerne ich noch abends <i>Computer Sience</i> und <i>Programmierung mit <mark>Python</mark></i> bei der <i>REDI Scool München</i> .<br/>Zurzeit bin ich auf der Suche nach eine Praktikumsstelle für das Pflichtpraktikum, das zu meiner Umschulung gehört und ab Dezember 2022 bis Juni 2023 stattfindet. Beim Praktikum würde ich mich freuen, in einem Team an interessanten Aufgaben zu arbeiten.<br/>Ich komme aus <mark>Belarus</mark> und wohne seit 2019 in Deutschland.<br/>Ich spreche sehr gut <mark>Deutsch</mark>, meine Muttersprache ist <mark>Russisch</mark>, und ich lese und schreibe auf <mark>Englisch</mark>.
+about_content: Herzlich wilkomen zu meinem Online-Lebenslauf. Ich heiße Dzianis und urschprünglich komme ich aus Belarus. 
+  Zurzeit wohne ich in München und ich habe mich für einen neuen Beruf entschieden, und zwar für Programmierung. 
+  Darum mache ich seit 2022 bei DIDACT München eine Umschulung zum Fachinformatiker für Anwendungsentwicklung. 
+  Von neuem Beruf bin ich total begeistert! Mit großem Interesse lerne ich viele interessante Fächer, die für mich neu sind, und bekomme gute Noten. 
+  Darüber hinaus bin ich zwischen durch ein Kursteilnehmer bei der REDI School München, wo ich den Kurs “Introduction to Computer Science” abgeschlossen habe, und nun bin ich dort am Kurs “Python Intermediate”.
+  <br/>
+  In meiner Freizeit finden Sie mich am Fußballplatz, da ich ein aktives Mitglid beim Fußballverein bin.
+  <br/><br/>
+  <font size="5">Fähigkeiten und Kenntnisse:</font>
+  
+  <mark>HTML</mark>
+  <mark>CSS</mark>
+  <mark>Python</mark>
+  <mark>C++</mark>
+  <mark>SQL</mark>
+  <mark>Linux</mark>
+  <mark>Git</mark>
+  <mark>GitHub</mark>
+  <mark>MS Office</mark>
+
+  <font size="5">Sprachen:</font>
+  
+  <mark>Russisch</mark>    Muttersprache <br/>
+  <mark>Deutsch</mark>     Fließend  <br/>
+  <mark>Englisch</mark>    Grundkenntnisse <br/>
+  <mark>Italienisch</mark> Grundkenntnisse <br/>
+
+
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: website www.musicbydenis.de
+        link: http://www.musicbydenis.de/
+        link_text: Link to Projekt
+        additional_links:
+          - title:  Link to project
+            icon: fab fa-github
+            url: 
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+          Eine einfache Internetseite, die ich mittels HTML entwickelt und veröffentlicht.
       - layout: left
         title: Online Lebenslauf
         link: Link
@@ -65,8 +104,7 @@ content:
           - title:  Link to project
             icon: fab fa-github
             url: https://github.com/denis23000/ATM_REDI_ICS
-        quote: >
-          Online-Lebenslauf 
+        quote: 
         description: | # this will include new lines to allow paragraphs
           Erstellung vom Online-Lebenslauf mittels Muster von James Grant. 
       - layout: left
@@ -77,10 +115,9 @@ content:
           - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/denis23000/ATM_REDI_ICS
-        quote: >
-          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool
+        quote:   
         description: | # this will include new lines to allow paragraphs
-          Für meinen Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool habe ich ein Geldautomat programmiert. Programmiersprache: Python. 
+          Abschlussprojekt bei dem Kurs "Introduction to Computer sience" bei der REDI Scool. Für den Abschlussprojekt habe ich ein Geldautomat programmiert. Programmiersprache: Python. 
   #- title: Experience
     #layout: list
     #content:
@@ -98,25 +135,22 @@ content:
     content:
       - layout: top-left
         title: DIDACT Kaufm. Berufsbildungsges mbH, München
-        sub_title:  Umschulung zum Fachinformatiker für Anwendungsentwicklung
+        sub_title:  Umschulung zum Fachinformatiker für Anwendungsentwicklung. IHK Abschluss.
         caption: 01.2022 - 11.2023
-        quote: >
-          Umschulung zum Fachinformatiker für Andwendungsentwicklung. IHK Abschluss. 
+        quote:  
         description: | # this will include new lines to allow paragraphs
-         IT-Grundlagen, PC-MS-Office-Anwenderprogramme, Datenbankentwiklung/<mark>SQL</mark>, <mark>HTML</mark>, <mark>Python</mark>, <mark>C++</mark>, <mark>PHP</mark>, <mark>JavaScript</mark>, Srukturierte Programmierung, Netzwerktechnik, Wirtschafts- und Sozialkunde, Projektmanagemet, Englisch for Computing, Deutsch/Kfm. Schriftverkehr, Berufsbezogenes Rechnen.
+         IT-Grundlagen, PC-MS-Office-Anwenderprogramme, Datenbankentwiklung/<mark>SQL</mark>, <mark>HTML</mark>, <mark>Python</mark>, <mark>C++</mark>, <mark>CSS</mark>, <mark>Linux</mark>, Srukturierte Programmierung, Netzwerktechnik, Wirtschafts- und Sozialkunde, Projektmanagemet, Englisch for Computing, Deutsch/Kfm. Schriftverkehr, Berufsbezogenes Rechnen.
       - layout: top-left
         title: REDI Scool
         sub_title: Introduction to Computer Sience
         caption: 03.2022 - 06.2022
-        quote: >
-          Introduction to Computer Science. Version Control with <mark>GIT</mark>. Web Fundamentals. Introduction to Programming <mark>Python</mark>
+        quote: 
         description: | # this will include new lines to allow paragraphs
           Basic Command Line <mark>Linux</mark>. Understand basics of an operating system. Create hard and soft links. Navigate the Linux file system. Version Control with <mark>GIT</mark>. Web Fundamentals. Understand web concepts and basic knowledge of <mark>HTML</mark>, <mark>CSS</mark> and <mark>JavaScript</mark> Introduction to Programming <mark>Python</mark>. Understand basic python programming. Understand Data types, Operations, Conditionals, Functions. Understand Python classes and objects
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      In meiner Freizeit finden Sie mich am Fußballplatz, da ich ein aktives Mitglid beim Fußballverein bin.
-
+  #- title: A Little More About Me
+    #layout: text
+    #content: | # this will include new lines to allow paragraphs
+    #  In meiner Freizeit finden Sie mich am Fußballplatz, da ich ein aktives Mitglid beim Fußballverein bin.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
